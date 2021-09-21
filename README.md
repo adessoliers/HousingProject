@@ -1,5 +1,5 @@
 # Cleaning Data with SQL queries
-Using SQL to manipulate the data into proper a cleaner format.
+Using SQL to manipulate the data into proper a cleaner format. We will be standardizing data types, filling or removing missing values, and separating columns into something more functional.
 
 ## Technologies
 * [Microsoft SQL Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
