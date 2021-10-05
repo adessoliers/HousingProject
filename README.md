@@ -1,4 +1,4 @@
-# Cleaning Data with SQL queries
+# Nashville Housing Dataset Cleanup
 Using SQL to manipulate the data into proper a cleaner format. We will be standardizing data types, filling or removing missing values, and separating columns into something more functional.
 
 ## Technologies
